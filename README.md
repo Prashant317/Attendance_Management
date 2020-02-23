@@ -9,3 +9,7 @@ Use IntelliJ IDEA (ULTIMATE VERSION in order to use database internally)
   <li> Wamp server -> phpMyAdmin </li>
   <li> IntelliJ IDEA </li>
 </ul>
+# Procedure
+<p class="color:red">
+  dsccb
+</p>
